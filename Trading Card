@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>Animal Trading Cards</title>
+      <link href="styles.css"rel="stylesheet">
+   </head>
+   <body class=body>
+      <div id="Main-div">
+         <h1 class="title">SLOTH</h1>
+         <img id="sloth" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Two_toed_Sloth_6_%284871961869%29.jpg/303px-Two_toed_Sloth_6_%284871961869%29.jpg">
+         <div id="animal-div">
+            <p id="fact">There are only two different types of sloths two-fingered or three-fingered but 6 different species 3 of each type.
+            <ul id="list">
+               <li><span class="label">Scientific Name</span>: Bradypus (3 fingered) Choloepus (2 fingered)
+               <li><span class="label">Origin</span>: Central & South America</li>
+               <li><span class="label">Diet </span>: Omnivore (Leaves, Buds and Fruit) </li>
+               <li><span class ="label">Life Span</span>: 15-25 years</li>
+            </ul>
+            <p id=info> Sloths are pretty facinating creatures, they pretty much live in the trees. Fun but also weird facts about sloths are they move extremely slow but swim two times faster and they can hold their breath for up to 40 minutes.  Sloths only come down from the trees to defacate every 5 days. Another awesome thing about sloths they never worry about not having teeth as they are hyposodents which means they teeth in all the time. Sloths love to be alone lol my kind of animal.  Last but not least sloths hang upside down so much their organs flip upside down in their body, super weird fact.</p>
+         </div>
+      </div>
+   </body>
+</html>
